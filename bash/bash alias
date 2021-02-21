@@ -1,0 +1,28 @@
+# some more ls aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+alias meow='echo cat'
+alias q="exit"
+alias c="clear"
+alias h="history"
+alias cs="clear;ls"
+alias p="cat"
+alias pd=pwd
+alias lsa="ls -a"
+alias lsl="ls -l"
+alias t="time"
+alias k='kill'
+alias home='cd ~'
+alias root='cd /'
+alias o="open"
+alias ..='cd ..'
+alias ...='cd ..; cd ..'
+alias ....='cd ..; cd ..; cd ..'
+alias g="git"
+alias st="git status"
+alias com="git commit -m"
+alias clone="git clone"
+alias sth="git stash"
+alias lg="git log"
+
